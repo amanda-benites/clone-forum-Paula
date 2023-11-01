@@ -16,10 +16,10 @@ function Home() {
             <HeaderPerfil />
 
             <SectionStyle>
-                {/* <Menu />
+                <Menu />
                 <Card />
 
-                <Historicos /> */}
+                <Historicos />
 
             </SectionStyle>
 
